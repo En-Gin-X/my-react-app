@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/En-Gin-X/my-react-app.git/static/css/main.073c9b0a.css",
+    "main.js": "/En-Gin-X/my-react-app.git/static/js/main.fa27fd56.js",
+    "static/js/787.bc7d429a.chunk.js": "/En-Gin-X/my-react-app.git/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/En-Gin-X/my-react-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/En-Gin-X/my-react-app.git/index.html",
+    "main.073c9b0a.css.map": "/En-Gin-X/my-react-app.git/static/css/main.073c9b0a.css.map",
+    "main.fa27fd56.js.map": "/En-Gin-X/my-react-app.git/static/js/main.fa27fd56.js.map",
+    "787.bc7d429a.chunk.js.map": "/En-Gin-X/my-react-app.git/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fa27fd56.js"
+  ]
+}
